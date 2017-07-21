@@ -10,11 +10,11 @@ Spring 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Car Dealer Management System with
 
 Fall 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accelerating Code Clone Detection with Finite State Automata			
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research project for a software engineering class.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research project for a software engineering class, code not available
 
 Fall 2015-Spring 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Portal for Greater Charlottesville Area Development Corporation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web portal created for a charity organization
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web portal created for a charity organization, code not available
 
 Spring 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STS thesis		
 
