@@ -14,7 +14,7 @@ Fall 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accelerating Code Clone Detection w
 
 Fall 2015-Spring 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Portal for Greater Charlottesville Area Development Corporation
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web portal
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web portal created for a charity organization
 
 Spring 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; STS thesis		
 
