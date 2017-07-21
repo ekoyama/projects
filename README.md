@@ -1,28 +1,42 @@
 # List of projects completed by Evaristo Koyama
-Bayesian Belief Network Tool in Python 						
-  Spring 2017
-	Class project for a machine learning class.
+Bayesian Belief Network Tool in Python
 
-Car Dealer Management System with MySQL					
-  Spring 2017
-	Class project for a database class.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2017
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class project for a machine learning class.
+
+Car Dealer Management System with MySQL	
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2017
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class project for a database class.
 
 Accelerating Code Clone Detection with Finite State Automata			
-  Fall 2016
-  Research project for a software engineering class.
 
-Web Portal for Greater Charlottesville Area Development Corporation		
-  Fall 2015-Spring 2016
-  Web portal
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2016
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research project for a software engineering class.
+
+Web Portal for Greater Charlottesville Area Development Corporation
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2015-Spring 2016
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web portal
 
 STS thesis		
-  Spring 2016
-	Research project for an english class
 
-SecureShare, a website for sharing and storing files securely			
-  Fall 2015
-	Class project for a software engineering class in python
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2016
 
-Traffic management with iRobot							
-  Spring 2015
-	Class project for an embedded systems class in Labview, a dataflow programming language
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research project for an english class
+
+SecureShare, a website for sharing and storing files securely	
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2015
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class project for a software engineering class in python
+
+Traffic management with iRobot		
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2015
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Class project for an embedded systems class in Labview, a dataflow programming language
