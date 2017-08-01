@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/TicketToRide/!svn/ver/35/trunk/ticketToRide/src/ttr/model/destinationCards
+END
+DestinationTicket.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/TicketToRide/!svn/ver/28/trunk/ticketToRide/src/ttr/model/destinationCards/DestinationTicket.java
+END
+DestinationTicketDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/TicketToRide/!svn/ver/17/trunk/ticketToRide/src/ttr/model/destinationCards/DestinationTicketDeck.java
+END
+Route.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/TicketToRide/!svn/ver/35/trunk/ticketToRide/src/ttr/model/destinationCards/Route.java
+END
+Destination.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/TicketToRide/!svn/ver/40/trunk/ticketToRide/src/ttr/model/destinationCards/Destination.java
+END
+Routes.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TicketToRide/!svn/ver/38/trunk/ticketToRide/src/ttr/model/destinationCards/Routes.java
+END

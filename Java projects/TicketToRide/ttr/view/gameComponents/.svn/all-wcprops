@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/TicketToRide/!svn/ver/35/trunk/ticketToRide/src/ttr/view/gameComponents
+END
+GameBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/TicketToRide/!svn/ver/35/trunk/ticketToRide/src/ttr/view/gameComponents/GameBoard.java
+END
+TrainCardView.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TicketToRide/!svn/ver/30/trunk/ticketToRide/src/ttr/view/gameComponents/TrainCardView.java
+END
+RouteSelectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/TicketToRide/!svn/ver/38/trunk/ticketToRide/src/ttr/view/gameComponents/RouteSelectionPanel.java
+END
+GameInfoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/TicketToRide/!svn/ver/23/trunk/ticketToRide/src/ttr/view/gameComponents/GameInfoPanel.java
+END
+GameLogView.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/TicketToRide/!svn/ver/28/trunk/ticketToRide/src/ttr/view/gameComponents/GameLogView.java
+END
+DestinationTicketDeckView.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/TicketToRide/!svn/ver/30/trunk/ticketToRide/src/ttr/view/gameComponents/DestinationTicketDeckView.java
+END
+TrainCardDeckView.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/TicketToRide/!svn/ver/36/trunk/ticketToRide/src/ttr/view/gameComponents/TrainCardDeckView.java
+END
